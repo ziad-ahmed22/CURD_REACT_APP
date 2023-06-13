@@ -1,0 +1,4 @@
+table tr th,
+table tr td:not(:last-child) {
+    max-width: 250px;
+}

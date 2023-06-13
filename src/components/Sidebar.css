@@ -1,0 +1,12 @@
+.sidebar {
+    background-color: #212529;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 200px;
+    height: 100vh;
+    z-index: 9000;
+}
+.sidebar ul li a {
+    font-size: 15px;
+}
